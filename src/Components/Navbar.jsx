@@ -12,7 +12,7 @@ export default function Navbar() {
     <nav className="bg-[#0a0f1a] text-white shadow-md">
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
         
-        <div className="text-3xl font-extrabold text-blue-500 transition duration-300 ml-5">
+        <div className="text-3xl font-extrabold text-blue-500 transition duration-300 ml-2">
           <Link to="/">CrackIT</Link>
         </div>
 
